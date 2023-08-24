@@ -1,0 +1,48 @@
+.container {
+  border: 1px solid black;
+  border-width: 1px;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0.125);
+  text-align: center;
+  background-color: #f5f8fa;
+}
+
+.container-profile {
+  margin-top: 15px;
+  width: 22vh;
+}
+.container-name {
+  font-size: 50px;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 0.02em;
+  font-weight: 700;
+  color: #3a4145;
+}
+
+.container-tag {
+  margin-bottom: 30px;
+  padding: 3px;
+}
+.container-tagline {
+  font-size: 26px;
+  font-family: system-ui;
+  font-weight: 400;
+  color: #aaa;
+  letter-spacing: 0.05em;
+  margin-top: 5px;
+}
+
+.container-js {
+  text-decoration: none;
+  color: #aaa;
+}
+.container-js:hover {
+  color: #107ea3;
+}
+.container-react {
+  text-decoration: none;
+  color: #aaa;
+}
+.container-react:hover {
+  color: #107ea3;
+}
